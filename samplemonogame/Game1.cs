@@ -10,6 +10,7 @@ namespace samplemonogame
         private SpriteBatch _spriteBatch;
 
         private float feature1;
+        private int feature2;
 
         public Game1()
         {
