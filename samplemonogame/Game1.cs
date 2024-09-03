@@ -9,6 +9,8 @@ namespace samplemonogame
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        private float feature1;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
