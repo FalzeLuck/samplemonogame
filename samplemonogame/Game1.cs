@@ -11,6 +11,7 @@ namespace samplemonogame
 
         private float feature1;
         private int feature2;
+        private double feature3;
 
         public Game1()
         {
