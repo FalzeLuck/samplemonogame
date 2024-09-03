@@ -13,6 +13,8 @@ namespace samplemonogame
         private int feature2;
         private double feature3;
 
+        private Vector2 playerVelocity = new Vector2(0, 10);
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
